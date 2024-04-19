@@ -9,12 +9,12 @@
 - Objects Introduction
 - How to access instance variables?
 - How to create objects?
-**- Dynamic Memory Allocation**
+- **Dynamic Memory Allocation**
 - How to manipulate objects?
 - Java Constructors
 - By Default Constructor
 - Creating Constructors
-**- "this" keyword**
+- **"this" keyword**
 - Constructor Overloading
 - Calling a constructor from another constructor
 - Why we don't use "new" keyword for creating primitive data types?
